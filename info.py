@@ -1,2 +1,2 @@
-a="I love Cricket more..."
+a="My Cricket Idol is Virat Kohli"
 print(a)
